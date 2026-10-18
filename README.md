@@ -1,5 +1,5 @@
 # HIGH / LOW
-A simple console gambling game developed by Malcolm.
+A simple console gambling game developed by Malcolm in C++.
 
 Made with visual studio 2026 community edition.
 
