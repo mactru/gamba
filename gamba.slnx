@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="gamba/gamba.vcxproj" Id="802ba5b1-8a66-4c29-ba2d-829881696242" />
+</Solution>
